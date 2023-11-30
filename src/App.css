@@ -1,0 +1,12 @@
+/* counter class for the outer div */
+.counter{
+  display: flex;
+  position: absolute;
+  bottom: 0;
+  background-color: lightcoral;
+  justify-content: flex-end;
+  width: calc(100vw - 3rem);
+  padding-right: 3rem;
+  font-size: 2rem;
+}
+
